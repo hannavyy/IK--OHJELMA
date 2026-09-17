@@ -101,5 +101,11 @@ if (ika == 65) {
   System.out.println("Hyviä eläkepäiviä");
 }
 
+
+// 40–50 -vuotiaille toivota parasta keski-ikää.
+
+if (ika >= 40 && ika <= 50) {
+  System.out.println("parasta keski-ikää");
+}
     }
 }
