@@ -88,5 +88,12 @@ if (ika == 100) {
   System.out.println("100-vuotis");
   System.out.println("juhlapäivänä");
 }
+
+// Tarkenna eläkeasioita siten, että yli 58-vuotiaille kerro, että he voivat mennä varhaiseläkkeelle.
+
+if (ika >= 58) {
+  System.out.println("voitte mennä varhaiseläkkeelle");
+}
+
     }
 }
