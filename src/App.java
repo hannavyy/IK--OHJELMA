@@ -95,5 +95,11 @@ if (ika >= 58) {
   System.out.println("voitte mennä varhaiseläkkeelle");
 }
 
+// Toivota 65-vuotiaille hyviä eläkepäiviä.
+
+if (ika == 65) {
+  System.out.println("Hyviä eläkepäiviä");
+}
+
     }
 }
